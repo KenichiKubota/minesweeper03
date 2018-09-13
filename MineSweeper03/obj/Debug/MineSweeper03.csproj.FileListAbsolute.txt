@@ -1,0 +1,10 @@
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.csprojAssemblyReference.cache
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.Form1.resources
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.Properties.Resources.resources
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.csproj.GenerateResource.cache
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.csproj.CoreCompileInputs.cache
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\bin\Debug\MineSweeper03.exe.config
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\bin\Debug\MineSweeper03.exe
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\bin\Debug\MineSweeper03.pdb
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.exe
+C:\Users\Kenichi\source\repos\MineSweeper03\MineSweeper03\obj\Debug\MineSweeper03.pdb
